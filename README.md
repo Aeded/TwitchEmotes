@@ -9,3 +9,6 @@ Addon ignores upper and lower case letters, you are able to type FeelsBadMan or 
 you can browse the addon´s directory and its files. 
 
 If you want to show a WoW ability as icon you type [ic][name of ablity] like this: icmortalstrike.
+
+
+v.1.0.2: Fixed "NA" emote to pepeNA to avoid spam when typing non-english languages
