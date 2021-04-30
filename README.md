@@ -1,4 +1,5 @@
 # TwitchEmotes
+Not compatible with TBC Classic
 Enables Twitch Emotes for chat (and more)
 
 
